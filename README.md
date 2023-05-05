@@ -1,2 +1,2 @@
 # cat-app
-i have created this page using HTML elements only.
+I have created this page using HTML elements only.
